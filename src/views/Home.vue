@@ -16,6 +16,12 @@
       </h3>
     </div>
 
+    <footer>
+      <p>&copy; 2019 - Yapım aşamasında - Dnz Sistem ürünüdür.</p>
+      <a href="https://dnzsistem.com" class="btn btn-link" title="Dnz Sistem" target="_blank">dnzsistem.com</a>
+      <a href="https://dnzpro.com" class="btn btn-link" title="Akınsoft yazılımları, Muhasebe programı" target="_blank">dnzpro.com</a>
+      <a href="http://akinsoftizmir.org" class="btn btn-link" title="Dnzpro Akınsoft yazılımları" target="_blank">akinsoftizmir.org</a>
+    </footer>
   </div>
 </template>
 

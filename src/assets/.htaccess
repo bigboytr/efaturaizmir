@@ -1,0 +1,7 @@
+
+Options +FollowSymLinks
+
+RewriteEngine On
+
+RewriteCond %{HTTP_HOST} ^www.efaturaizmir\.com$ [NC]
+RewriteRule ^(.*)$ http://efaturaizmir.com/$1 [R=301,L]
